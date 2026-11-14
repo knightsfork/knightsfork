@@ -43,7 +43,7 @@ Enterprise architecture, enterprise platforms, network and data center infrastru
 
 ## Featured
 
-**[claude-model-router](https://github.com/knightsfork/claude-model-router)**: an open-source agent skill that routes AI subagent work to the right model tier to cut cost, with an approval gate on the top tier.
+**[agent-model-router](https://github.com/knightsfork/agent-model-router)**: an open-source agent skill that splits AI work across subagents and routes each part to the right model tier (fast, standard, strong, frontier) on the major AI coding agents, with an approval gate on the top tier.
 
 ## Connect
 
