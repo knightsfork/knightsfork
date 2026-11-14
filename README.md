@@ -1,47 +1,49 @@
-# Hatem Mohamed
+<p align="center">
+  <img src="assets/banner.png" alt="Hatem Mohamed: Security, Strategy, PMO" width="100%">
+</p>
 
-**Security, strategy and PMO leader who builds with AI.**
-
-I head Strategy & Business Planning, including PMO and Delivery, at a giga-project in Riyadh, Saudi Arabia. I have 17+ years across cybersecurity, PMO governance, digital transformation and infrastructure delivery. Today I also build with AI: Claude skills, subagents and MCP servers.
+I head Strategy & Business Planning, including PMO and Delivery, at a giga-project in Saudi Arabia. My background spans cybersecurity, governance, risk and compliance, PMO governance, digital transformation and infrastructure delivery.
 
 ## What I work on
 
 **Strategy & business planning**
-Portfolio, program and PMO governance, digital transformation, and vendor management.
+Strategic and business planning, capability mapping, portfolio direction, and vendor and contract management.
 
 **PMO & delivery**
-Running delivery at scale, from portfolio intake to program execution, on Microsoft 365, SharePoint and ServiceNow SPM.
+Portfolio, program and project delivery at scale, from intake and prioritization to execution, reporting and governance.
 
 **Cybersecurity & GRC**
-Saudi NCA ECC/DCC, NDMO data classification, PDPL and data protection. I evaluate data security tooling (BigID, Microsoft Purview, Seclore, Informatica) and secure CI/CD and the software supply chain.
+Governance, risk and compliance, data protection and classification, third-party risk, and secure software delivery.
 
-**Building with AI**
-Claude skills, subagents, MCP servers and Cloudflare Workers, in Python and Node.js.
+**Technology & infrastructure**
+Enterprise architecture, enterprise platforms, network and data center infrastructure, and digital transformation.
 
-## Toolbox
+## Technology stack
 
-**Security & GRC:** ![NCA](https://img.shields.io/badge/NCA%20ECC%2FDCC-0b3d5c?style=flat-square) ![NDMO](https://img.shields.io/badge/NDMO-0b3d5c?style=flat-square) ![PDPL](https://img.shields.io/badge/PDPL-0b3d5c?style=flat-square) ![GRC](https://img.shields.io/badge/GRC-0b3d5c?style=flat-square) ![Supply chain security](https://img.shields.io/badge/Supply%20Chain%20Security-0b3d5c?style=flat-square) 
+**Security & GRC:** ![Governance risk compliance](https://img.shields.io/badge/Governance%20Risk%20%26%20Compliance-0b3d5c?style=flat-square) ![Risk management](https://img.shields.io/badge/Risk%20Management-0b3d5c?style=flat-square) ![Compliance management](https://img.shields.io/badge/Compliance%20Management-0b3d5c?style=flat-square) ![Data protection](https://img.shields.io/badge/Data%20Protection-0b3d5c?style=flat-square) ![Data classification](https://img.shields.io/badge/Data%20Classification-0b3d5c?style=flat-square) ![Data loss prevention](https://img.shields.io/badge/Data%20Loss%20Prevention-0b3d5c?style=flat-square) ![Privacy](https://img.shields.io/badge/Privacy-0b3d5c?style=flat-square) ![Rights management](https://img.shields.io/badge/Rights%20Management-0b3d5c?style=flat-square) ![Third party risk](https://img.shields.io/badge/Third%20Party%20Risk-0b3d5c?style=flat-square)
 
-**Delivery & strategy:** ![PMO](https://img.shields.io/badge/PMO%20Governance-1f6f8b?style=flat-square) ![Portfolio](https://img.shields.io/badge/Portfolio%20%26%20Program%20Management-1f6f8b?style=flat-square) ![Digital transformation](https://img.shields.io/badge/Digital%20Transformation-1f6f8b?style=flat-square) ![Vendor management](https://img.shields.io/badge/Vendor%20Management-1f6f8b?style=flat-square) 
+**Security operations & architecture:** ![Identity and access management](https://img.shields.io/badge/Identity%20%26%20Access%20Management-1b5e7a?style=flat-square) ![Zero trust](https://img.shields.io/badge/Zero%20Trust-1b5e7a?style=flat-square) ![Security operations](https://img.shields.io/badge/Security%20Operations-1b5e7a?style=flat-square) ![Application security](https://img.shields.io/badge/Application%20Security-1b5e7a?style=flat-square) ![Software supply chain security](https://img.shields.io/badge/Software%20Supply%20Chain%20Security-1b5e7a?style=flat-square) ![Cloud security](https://img.shields.io/badge/Cloud%20Security-1b5e7a?style=flat-square)
 
-**Platforms:** ![SharePoint](https://img.shields.io/badge/Microsoft%20365%20%2F%20SharePoint%20SPFx-2e7d32?style=flat-square) ![Power Platform](https://img.shields.io/badge/Power%20Platform-2e7d32?style=flat-square) ![ServiceNow](https://img.shields.io/badge/ServiceNow%20SPM-2e7d32?style=flat-square) ![Purview](https://img.shields.io/badge/Microsoft%20Purview-2e7d32?style=flat-square) 
+**Strategy & portfolio:** ![Strategic planning](https://img.shields.io/badge/Strategic%20Planning-2e7d32?style=flat-square) ![Business planning](https://img.shields.io/badge/Business%20Planning-2e7d32?style=flat-square) ![Portfolio management](https://img.shields.io/badge/Portfolio%20Management-2e7d32?style=flat-square) ![Program management](https://img.shields.io/badge/Program%20Management-2e7d32?style=flat-square) ![PMO governance](https://img.shields.io/badge/PMO%20Governance-2e7d32?style=flat-square) ![Agile delivery](https://img.shields.io/badge/Agile%20Delivery-2e7d32?style=flat-square) ![OKRs and KPIs](https://img.shields.io/badge/OKRs%20%26%20KPIs-2e7d32?style=flat-square) ![Capability mapping](https://img.shields.io/badge/Capability%20Mapping-2e7d32?style=flat-square) ![Vendor and contract management](https://img.shields.io/badge/Vendor%20%26%20Contract%20Management-2e7d32?style=flat-square) ![Digital transformation](https://img.shields.io/badge/Digital%20Transformation-2e7d32?style=flat-square)
 
-**Network infrastructure:** ![FortiGate](https://img.shields.io/badge/FortiGate%20BGP-5f6b7a?style=flat-square) ![A10 and F5](https://img.shields.io/badge/A10%20%2F%20F5%20Load%20Balancers-5f6b7a?style=flat-square) ![DNS](https://img.shields.io/badge/DNS%20Architecture-5f6b7a?style=flat-square) 
+**Architecture & enterprise platforms:** ![Enterprise architecture](https://img.shields.io/badge/Enterprise%20Architecture-b45f06?style=flat-square) ![IT service management](https://img.shields.io/badge/IT%20Service%20Management-b45f06?style=flat-square) ![Strategic portfolio management platforms](https://img.shields.io/badge/Strategic%20Portfolio%20Management%20Platforms-b45f06?style=flat-square) ![ERP](https://img.shields.io/badge/ERP-b45f06?style=flat-square) ![Collaboration platforms](https://img.shields.io/badge/Collaboration%20Platforms-b45f06?style=flat-square) ![Low code platforms](https://img.shields.io/badge/Low%20Code%20Platforms-b45f06?style=flat-square) ![Document and records management](https://img.shields.io/badge/Document%20%26%20Records%20Management-b45f06?style=flat-square) ![BI and analytics](https://img.shields.io/badge/BI%20%26%20Analytics-b45f06?style=flat-square)
 
-**AI & code:** ![Claude](https://img.shields.io/badge/Claude-6b46c1?style=flat-square) ![MCP](https://img.shields.io/badge/MCP%20Servers-6b46c1?style=flat-square) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-6b46c1?style=flat-square) ![Python](https://img.shields.io/badge/Python-6b46c1?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-6b46c1?style=flat-square) 
+**Infrastructure & networking:** ![Network architecture](https://img.shields.io/badge/Network%20Architecture-5f6b7a?style=flat-square) ![BGP routing](https://img.shields.io/badge/BGP%20Routing-5f6b7a?style=flat-square) ![Load balancing](https://img.shields.io/badge/Load%20Balancing-5f6b7a?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-5f6b7a?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-5f6b7a?style=flat-square) ![Data centers](https://img.shields.io/badge/Data%20Centers-5f6b7a?style=flat-square) ![Cloud infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-5f6b7a?style=flat-square)
+
+**Engineering & automation:** ![CI CD](https://img.shields.io/badge/CI%2FCD-6b46c1?style=flat-square) ![DevSecOps](https://img.shields.io/badge/DevSecOps-6b46c1?style=flat-square) ![APIs and integration](https://img.shields.io/badge/APIs%20%26%20Integration-6b46c1?style=flat-square) ![Workflow automation](https://img.shields.io/badge/Workflow%20Automation-6b46c1?style=flat-square) ![Intelligent automation](https://img.shields.io/badge/Intelligent%20Automation-6b46c1?style=flat-square) ![AI governance](https://img.shields.io/badge/AI%20Governance-6b46c1?style=flat-square)
 
 ## Certifications & education
 
 | Area | Credentials |
 | --- | --- |
 | Project and program management | PgMP, PfMP, PMP, PMI-ACP, PRINCE2 Practitioner, PMO-CP |
-| Security and networking | CEH, CC (ISC2), CCNA, CISSP (in progress) |
+| Security and networking | CISSP, CEH, CC (ISC2), CCNA |
 | Education | MSc Cybersecurity Operations and Leadership, University of San Diego |
 | | BSc Computer and Control Systems Engineering |
 
 ## Featured
 
-**[claude-model-router](https://github.com/engreg/claude-model-router)**: a Claude skill and Claude Code plugin that routes subagent work to the cheapest Claude model that will do each part well (Haiku, Sonnet, Opus, Fable), with an approval gate on the top tier.
+**[claude-model-router](https://github.com/knightsfork/claude-model-router)**: an open-source agent skill that routes AI subagent work to the right model tier to cut cost, with an approval gate on the top tier.
 
 ## Connect
 
